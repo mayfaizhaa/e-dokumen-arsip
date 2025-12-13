@@ -66,9 +66,7 @@ Aplikasi dikembangkan menggunakan **PHP Native** dan **MySQL**, dengan struktur 
 ## ⚙️ Instalasi & Konfigurasi
 
 ```bash
-# Clone repository
-git clone https://github.com/username/E-DOKUMEN-ARSIP.git
-cd E-DOKUMEN-ARSIP
+https://github.com/mayfaizhaa/e-dokumen-arsip
 ```
 
 1. Pindahkan folder project ke `htdocs/`
@@ -212,16 +210,10 @@ Contoh: Menambahkan fitur **kategori dokumen**
 
 ---
 
-## 📄 Lisensi
-
-MIT License — Bebas digunakan untuk keperluan pembelajaran dan pengembangan.
-
----
-
 ## 👨‍💼 Author
 
-**Nama** : *(Isi Nama Anda)*
-**Institusi** : *(Nama Kampus / Instansi)*
+**Nama** : *(mayfaizhaa)*
+**Institusi** : *(universitas mega buana palopo)*
 **Tahun** : 2025
 
 ---
